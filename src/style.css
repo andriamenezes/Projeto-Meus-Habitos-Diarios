@@ -542,7 +542,7 @@ ul {
     grid-template-columns: 1fr;
   }
 
-  .lista-habitos ul {
+  ul {
     grid-template-columns: 1fr;
     
   }
