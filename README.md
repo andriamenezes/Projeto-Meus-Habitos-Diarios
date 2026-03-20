@@ -2,6 +2,7 @@
 
 Projeto desenvolvido ao longo do **Módulo 04 — Desenvolvimento Front-end com React** do curso ITEAM.
 
+🔗 **[Acesse o projeto aqui](https://projeto-meus-habitos-diarios.vercel.app/)**
 ---
 
 ## 🎯 Sobre o projeto
