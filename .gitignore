@@ -3,3 +3,5 @@
 node_modules/@babel/core/lib/transformation/file/merge-map.js.map
 node_modules/zod/v4/mini/schemas.d.cts
 /node_modules/zod/v4/mini
+/node_modules/.bin
+/node_modules
